@@ -2,7 +2,7 @@
 
 ## Introduction
 As a analyst, my objective is to transform the survey results into actionable insights that can provide valuable guidance and to suggest recommendation for the team.
-
+* Challenge Link: https://codebasics.io/challenge/codebasics-resume-project-challenge
 ## Task
 CodeX recently launched its energy drink in 10 cities across India and entrusted its Marketing team with the responsibilities of enhancing brand awareness, increasing market share, and driving product development. The team conducted a survey to achieve these goals, gathering responses from 10,000 participants in the targeted cities. As a data analyst, my task was to transform this survey data into valuable insights that can guide the team's decision-making process.
 
